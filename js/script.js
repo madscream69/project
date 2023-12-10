@@ -10,7 +10,7 @@
 
 const answers = [];
 
-answers[0] = prompt('Имя любимае мае и...', '');
+answers[0] = prompt('Имя любимае мае...', '');
 
 alert(`Hello, ${answers[0]}`)
 
